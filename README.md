@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pratyush Sharma
+- 👋 Hi, I’m Pratyush Sharma (https://komarev.com/ghpvc/?username=pratyush335)
 - 👀 I’m interested in Data Science application in Business analysis
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...ML projects
