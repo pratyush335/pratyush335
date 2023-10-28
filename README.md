@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science application in Business analysis
 - 🌱 I’m currently pursuing MS in Business Analytics from McCombs School of Business, UT Austin
 - 💞️ I’m looking to collaborate on ...ML projects
-- 📫 How to reach me ...pratyush@utexas.edu
+- 📫 How to reach me ... pratyush@utexas.edu
 
 <!---
 pratyush335/pratyush335 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
